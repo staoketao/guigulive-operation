@@ -11,14 +11,15 @@
 Before optimizing calculateRunway, the gas keep increasing due to the increase of array length for number of employees. 
 After using mapping structure, the gas cost remain consistent to be 22124 and 852 for transaction and execution separately.
 
-employee |	transaction cost	| execution cost  
-1	| 22966 |	1694  
-2	| 23747	| 2475  
-3	| 24528	| 3256  
-4	| 25309	| 4037  
-5	| 26090	| 4818  
-6	| 26871	| 5599  
-7	| 27652	| 6380  
-8	| 28433	| 7161  
-9	| 29214	| 7942  
-10	| 29995	| 8723  
+|employee |	transaction cost	| execution cost  
+|---------|-------------------|-----------------
+|1	| 22,966 |	1,694  
+|2	| 23,747	| 2,475  
+|3	| 24,528	| 3,256  
+|4	| 25,309	| 4,037  
+|5	| 26,090	| 4,818  
+|6	| 26,871	| 5,599  
+|7	| 27,652	| 6,380  
+|8	| 28,433	| 7,161  
+|9	| 29,214	| 7,942  
+|10	| 29,995	| 8,723  
